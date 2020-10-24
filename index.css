@@ -1,0 +1,135 @@
+* {
+  background-color: azure;  
+  padding: 0;
+    
+}
+
+body {
+  height: 1000px;
+}
+
+.menu {
+  border: 2px solid #ccc;
+  width: 100%;
+  height: 60px;
+  z-index: 1;
+  background-color: white;
+}
+
+.links {
+  float: right;
+  font-size: 22px;
+  line-height: 60px;
+
+}
+
+.links > a {
+  padding: 10px;
+  
+}
+
+.form {
+  position: relative;
+  margin-left: 70%;
+  
+  
+}
+
+.form > input {  
+  background-color: ivory;
+  padding: 1px;
+  border-radius: 5px;
+  display:inline;
+
+}
+.form button {
+  font-family: arial;
+  font-weight: 510;
+  background: cadetblue;
+  color: white;
+  outline: white;
+  border-radius: 5px;
+
+
+}
+
+ .form > a {
+  font-style: normal;
+  margin-left: 50%;
+  margin-bottom: 0%;
+  margin-top: 0;
+  color: blue;
+} 
+
+.container {
+  margin-top: -0%;
+  width: 100%;
+  top: 80px;
+  text-align: left;
+}
+
+.container h1 {
+  margin-top: 0;
+  margin-left: 0%;
+  color:black(0, 98, 255);
+  font-style: normal;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.container img {
+  margin-top: 0%;
+  margin-left: 0%;
+
+}
+
+.a {
+  position: relative;
+  margin-top: -100px;
+}
+
+.container h2 {
+  color: cornflowerblue;
+  text-decoration-line: underline;
+  margin-top: -21%;
+  margin-left: 40%;
+  margin-bottom: 50%;
+  text-align: left;
+
+}  
+
+.container > p {
+  margin-top: -49%; 
+  margin-left: 40%;
+  margin-right: 3%;
+  font-family: Arial;
+  font-size: 1.2rem;
+
+}
+
+.container > input {
+  float: right;
+  margin-top: 10%;
+  margin-right: 5%;
+  padding-left: 10px;
+  padding-right: 3px;
+  padding-bottom: ;
+  border-radius: 30px;
+  background-color: greenyellow;
+  outline-color: white;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
+  
+
+}  
+
+
+
+
+
+
+
